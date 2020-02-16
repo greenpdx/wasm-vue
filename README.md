@@ -16,5 +16,7 @@ wasm-pack build
 ```
 npm run serve
 ```
+![ScreenShot]
+(https://github.com/greenpdx/wasm-vue/blob/master/docs/flowWASMsvg.svg)
 
 ```
