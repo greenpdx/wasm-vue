@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="flowWASMNodespdf.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3431"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3429"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3361"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3359" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3297"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3295" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path957-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path957-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path957-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6656151"
+     inkscape:cx="370.31937"
+     inkscape:cy="513.39454"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="165.3631"
+       y="83.02874"
+       id="text3196"><tspan
+         sodipodi:role="line"
+         id="tspan3194"
+         x="165.3631"
+         y="93.016762"
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-3-3"
+       width="152.17851"
+       height="5.718606"
+       x="15.09077"
+       y="17.979574" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="15.84271"
+       y="12.590981"
+       id="text819-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan817-7-59"
+         x="15.84271"
+         y="12.590981"
+         style="stroke-width:0.26458332">Array of Nodes.  Nodes are parent child using index into array</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-3-3-3"
+       width="4.7655048"
+       height="5.5597553"
+       x="15.09077"
+       y="17.979574" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="15.88502"
+       y="22.03026"
+       id="text1004"><tspan
+         sodipodi:role="line"
+         id="tspan1002"
+         x="15.88502"
+         y="22.03026"
+         style="stroke-width:0.26458332">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.838123"
+       y="32.673225"
+       id="text1026"><tspan
+         sodipodi:role="line"
+         id="tspan1024"
+         x="16.838123"
+         y="32.673225"
+         style="stroke-width:0.26458332">Node {</tspan><tspan
+         sodipodi:role="line"
+         x="16.838123"
+         y="38.846836"
+         style="stroke-width:0.26458332"
+         id="tspan1030">idx: i32</tspan><tspan
+         sodipodi:role="line"
+         x="16.838123"
+         y="45.020447"
+         style="stroke-width:0.26458332"
+         id="tspan1032">parnt: i32,</tspan><tspan
+         sodipodi:role="line"
+         x="16.838123"
+         y="51.194057"
+         style="stroke-width:0.26458332"
+         id="tspan1034">chld: i32,</tspan><tspan
+         sodipodi:role="line"
+         x="16.838123"
+         y="57.367668"
+         style="stroke-width:0.26458332"
+         id="tspan1040" /><tspan
+         sodipodi:role="line"
+         x="16.838123"
+         y="63.541279"
+         style="stroke-width:0.26458332"
+         id="tspan1028" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.741302"
+       y="37.756432"
+       id="text1038"><tspan
+         sodipodi:role="line"
+         id="tspan1036"
+         x="35.741302"
+         y="37.756432"
+         style="stroke-width:0.26458332">,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.679274"
+       y="57.136162"
+       id="text1044"><tspan
+         sodipodi:role="line"
+         id="tspan1042"
+         x="16.679274"
+         y="57.136162"
+         style="stroke-width:0.26458332">leaf: i16,</tspan><tspan
+         sodipodi:role="line"
+         x="16.679274"
+         y="63.309772"
+         style="stroke-width:0.26458332"
+         id="tspan1083">state: i16,</tspan><tspan
+         sodipodi:role="line"
+         x="16.679274"
+         y="69.483383"
+         style="stroke-width:0.26458332"
+         id="tspan1103">val: f64</tspan><tspan
+         sodipodi:role="line"
+         x="16.679274"
+         y="75.656998"
+         style="stroke-width:0.26458332"
+         id="tspan1046">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.92247"
+       y="32.171841"
+       id="text1044-5"><tspan
+         sodipodi:role="line"
+         id="tspan1042-3"
+         x="68.92247"
+         y="32.171841"
+         style="stroke-width:0.26458332">Add parent first to limit search to </tspan><tspan
+         sodipodi:role="line"
+         x="68.92247"
+         y="38.345451"
+         style="stroke-width:0.26458332"
+         id="tspan1069">leaf is the index into the CSV budget Acct</tspan><tspan
+         sodipodi:role="line"
+         x="68.92247"
+         y="44.519062"
+         style="stroke-width:0.26458332"
+         id="tspan1046-5">fn rtn_tree() is hard coded, make it recursive.</tspan><tspan
+         sodipodi:role="line"
+         x="68.92247"
+         y="50.692673"
+         style="stroke-width:0.26458332"
+         id="tspan1085">state prevents infinate recursion.</tspan><tspan
+         sodipodi:role="line"
+         x="68.92247"
+         y="56.866283"
+         style="stroke-width:0.26458332"
+         id="tspan1101">The Node stay fixed, only the state &amp; val changes</tspan><tspan
+         sodipodi:role="line"
+         x="68.92247"
+         y="63.039894"
+         style="stroke-width:0.26458332"
+         id="tspan1105">val: is f64, native JS  numeric format.</tspan><tspan
+         sodipodi:role="line"
+         x="68.92247"
+         y="69.213501"
+         style="stroke-width:0.26458332"
+         id="tspan1390">the total is locked so it does not change. </tspan><tspan
+         sodipodi:role="line"
+         x="68.92247"
+         y="75.387115"
+         style="stroke-width:0.26458332"
+         id="tspan1081" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.202723"
+       y="86.682304"
+       id="text1089"><tspan
+         sodipodi:role="line"
+         id="tspan1087"
+         x="16.202723"
+         y="86.682304"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">Rules:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.538578"
+       y="91.765511"
+       id="text1093"><tspan
+         sodipodi:role="line"
+         id="tspan1091"
+         x="19.538578"
+         y="91.765511"
+         style="stroke-width:0.26458332">Parent value must match the sum of the chindren.</tspan><tspan
+         sodipodi:role="line"
+         x="19.538578"
+         y="97.939117"
+         style="stroke-width:0.26458332"
+         id="tspan1095">Change in parent effects the children proportionally</tspan><tspan
+         sodipodi:role="line"
+         x="19.538578"
+         y="104.11273"
+         style="stroke-width:0.26458332"
+         id="tspan1099">.....the rest of the tree must change negitive proportionally</tspan><tspan
+         sodipodi:role="line"
+         x="19.538578"
+         y="110.28635"
+         style="stroke-width:0.26458332"
+         id="tspan1097">Node val must not go negitive.</tspan><tspan
+         sodipodi:role="line"
+         x="19.538578"
+         y="116.45995"
+         style="stroke-width:0.26458332"
+         id="tspan1392">Locked Node does not change  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.892586"
+       y="125.60061"
+       id="text1109"><tspan
+         sodipodi:role="line"
+         x="25.892586"
+         y="125.60061"
+         style="stroke-width:0.26458332"
+         id="tspan1166">parent chg</tspan><tspan
+         sodipodi:role="line"
+         x="25.892586"
+         y="131.77422"
+         style="stroke-width:0.26458332"
+         id="tspan1113">parnt: 10</tspan><tspan
+         sodipodi:role="line"
+         x="25.892586"
+         y="137.94781"
+         style="stroke-width:0.26458332"
+         id="tspan1115">chld:   6,4</tspan><tspan
+         sodipodi:role="line"
+         x="25.892586"
+         y="144.12143"
+         style="stroke-width:0.26458332"
+         id="tspan1111" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.194038"
+       y="125.62286"
+       id="text1109-1"><tspan
+         sodipodi:role="line"
+         id="tspan1107-2"
+         x="57.194038"
+         y="125.62286"
+         style="stroke-width:0.26458332">math</tspan><tspan
+         sodipodi:role="line"
+         x="57.194038"
+         y="131.79648"
+         style="stroke-width:0.26458332"
+         id="tspan1113-7">10 + 3</tspan><tspan
+         sodipodi:role="line"
+         x="57.194038"
+         y="137.97008"
+         style="stroke-width:0.26458332"
+         id="tspan1115-0">6+6*3/10,4+4*3/10</tspan><tspan
+         sodipodi:role="line"
+         x="57.194038"
+         y="144.14369"
+         style="stroke-width:0.26458332"
+         id="tspan1111-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.36197"
+       y="125.62288"
+       id="text1109-3"><tspan
+         sodipodi:role="line"
+         id="tspan1107-6"
+         x="111.36197"
+         y="125.62288"
+         style="stroke-width:0.26458332">results</tspan><tspan
+         sodipodi:role="line"
+         x="111.36197"
+         y="131.79649"
+         style="stroke-width:0.26458332"
+         id="tspan1113-0">13</tspan><tspan
+         sodipodi:role="line"
+         x="111.36197"
+         y="137.97009"
+         style="stroke-width:0.26458332"
+         id="tspan1115-6">7.8, 5.2</tspan><tspan
+         sodipodi:role="line"
+         x="111.36197"
+         y="144.14371"
+         style="stroke-width:0.26458332"
+         id="tspan1111-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="58.662979"
+       y="146.74995"
+       id="text1109-6"><tspan
+         sodipodi:role="line"
+         x="58.662979"
+         y="146.74995"
+         style="stroke-width:0.26458332"
+         id="tspan1166-1">child chg</tspan><tspan
+         sodipodi:role="line"
+         x="58.662979"
+         y="152.92357"
+         style="stroke-width:0.26458332"
+         id="tspan1295">parnt:   10+3</tspan><tspan
+         sodipodi:role="line"
+         x="58.662979"
+         y="159.09718"
+         style="stroke-width:0.26458332"
+         id="tspan1301">pchld:   6+3,4</tspan><tspan
+         sodipodi:role="line"
+         x="58.662979"
+         y="165.27078"
+         style="stroke-width:0.26458332"
+         id="tspan1111-92" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.60874"
+       y="147.70306"
+       id="text1109-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan1107-6-2"
+         x="112.60874"
+         y="147.70306"
+         style="stroke-width:0.26458332">results</tspan><tspan
+         sodipodi:role="line"
+         x="112.60874"
+         y="153.87668"
+         style="stroke-width:0.26458332"
+         id="tspan1113-0-3">13</tspan><tspan
+         sodipodi:role="line"
+         x="112.60874"
+         y="160.05028"
+         style="stroke-width:0.26458332"
+         id="tspan1115-6-7">9, 4</tspan><tspan
+         sodipodi:role="line"
+         x="112.60874"
+         y="166.22389"
+         style="stroke-width:0.26458332"
+         id="tspan1111-2-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.626976"
+       y="168.76231"
+       id="text1109-6-9"><tspan
+         sodipodi:role="line"
+         x="57.626976"
+         y="168.76231"
+         style="stroke-width:0.26458332"
+         id="tspan1166-1-2">child chg</tspan><tspan
+         sodipodi:role="line"
+         x="57.626976"
+         y="174.93593"
+         style="stroke-width:0.26458332"
+         id="tspan1295-2">parnt lock: 10</tspan><tspan
+         sodipodi:role="line"
+         x="57.626976"
+         y="181.10953"
+         style="stroke-width:0.26458332"
+         id="tspan1301-8">pchld:        6+3,4-3</tspan><tspan
+         sodipodi:role="line"
+         x="57.626976"
+         y="187.28314"
+         style="stroke-width:0.26458332"
+         id="tspan1111-92-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="113.84074"
+       y="168.6713"
+       id="text1109-3-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan1107-6-2-3"
+         x="113.84074"
+         y="168.6713"
+         style="stroke-width:0.26458332">results</tspan><tspan
+         sodipodi:role="line"
+         x="113.84074"
+         y="174.84491"
+         style="stroke-width:0.26458332"
+         id="tspan1113-0-3-6">10</tspan><tspan
+         sodipodi:role="line"
+         x="113.84074"
+         y="181.01852"
+         style="stroke-width:0.26458332"
+         id="tspan1115-6-7-1">9, 1</tspan><tspan
+         sodipodi:role="line"
+         x="113.84074"
+         y="187.19212"
+         style="stroke-width:0.26458332"
+         id="tspan1111-2-5-2" /></text>
+  </g>
+</svg>
