@@ -19,4 +19,9 @@ npm run serve
 ![CSV input]
 (https://github.com/greenpdx/wasm-vue/blob/master/docs/flowWASMsvg.svg)
 
+![Node struct]
+(https://github.com/greenpdx/wasm-vue/blob/master/docs/flowWASMNodespdf.svg)
+
+```
+
 ```
