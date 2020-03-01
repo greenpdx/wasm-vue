@@ -470,6 +470,9 @@ pub fn chg_node(vecnode: &mut Vec<Node>, idx: i32, delta: BVal) -> BVal {
 
     } else {
         vecnode[idx as usize].state = 1;
+        if abs(delta) > nodmin(vecnode) {
+            println!("CHKOver {:?}", delta);
+        }
         let num = chg_childs(vecnode, idx, delta);
         chg_parent(vecnode, idx, delta);
         vecnode[idx as usize].state = 0;
