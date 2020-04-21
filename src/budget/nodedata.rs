@@ -2,6 +2,7 @@ use serde::{ Deserialize, Serialize};
 use std::error::Error;
 use wasm_bindgen::prelude::*;
 use js_sys::JsString;
+use std::f64;
 
 //use ndarray_csv::{ArrayReader, ArrayWriter};
 #[wasm_bindgen]
@@ -457,6 +458,14 @@ fn chg_parent(vecnode: &mut Vec<Node>, idx: i32, delta: BVal) -> BVal {
     0.0
 }
 
+fn nodmin(vecnode: &Vec<Node>) -> BVal {
+    let mut min: BVal = f64::MAX;
+    let itr = vecnode.iter();
+    for itm in itr {
+        if itm.val < min { min = itm.val; }
+    }
+    min
+}
 
 pub fn chg_node(vecnode: &mut Vec<Node>, idx: i32, delta: BVal) -> BVal {
     let node = vecnode[idx as usize].clone();
@@ -470,7 +479,7 @@ pub fn chg_node(vecnode: &mut Vec<Node>, idx: i32, delta: BVal) -> BVal {
 
     } else {
         vecnode[idx as usize].state = 1;
-        if abs(delta) > nodmin(vecnode) {
+        if delta.abs() > nodmin(vecnode) {
             println!("CHKOver {:?}", delta);
         }
         let num = chg_childs(vecnode, idx, delta);
